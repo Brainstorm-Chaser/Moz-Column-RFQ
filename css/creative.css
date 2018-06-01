@@ -169,7 +169,7 @@ img::-moz-selection {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url("../img/header.jpg");
+  background-image: url("https://data.openasset.com/cef682c3/b46b03c49ab8d54a235c505ca1f37754/R_180519_N42.jpg");
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -299,13 +299,13 @@ header.masthead p {
 }
 
 .btn-primary {
-  background-color: #F05F40;
-  border-color: #F05F40;
+  background-color: #991b1e;
+  border-color: white;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  color: green;
-  background-color: green !important;
+  color: #991b1e;
+  background-color: white !important;
 }
 
 .btn-primary:active, .btn-primary:focus {
